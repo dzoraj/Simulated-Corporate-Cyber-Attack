@@ -1,0 +1,12 @@
+From: Security Team security@company.com
+Subject: Mandatory Security Policy Update
+
+    Hello,
+
+    As part of our ongoing efforts to enhance company security, a new policy update has been released.
+    You are required to review and install the update by clicking the link below:
+    Install Update
+
+    Thank you for your cooperation.
+
+    Security Team

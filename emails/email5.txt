@@ -1,0 +1,13 @@
+From: Licensing Team license@company.com
+Subject: Action Required: Software License Renewal
+
+    Hello,
+
+    Our records indicate your software license is about to expire. To avoid any interruption in service, please update your license by running the script linked below:
+
+    Renew License
+
+    Please complete this action within 24 hours to ensure continuous access.
+
+    Best regards,
+    Licensing Team

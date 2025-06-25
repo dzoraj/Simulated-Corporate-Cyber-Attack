@@ -1,0 +1,13 @@
+From: IT Support it-support@company.com
+Subject: Critical Security Update Required - Immediate Action Needed
+
+    Dear Employee,
+
+    Our records show that your system is missing an important security update.
+    Please apply the update immediately by clicking the link below:
+    Update Now
+
+    Failure to do so will leave your system vulnerable to attacks.
+
+    Regards,
+    IT Support Team

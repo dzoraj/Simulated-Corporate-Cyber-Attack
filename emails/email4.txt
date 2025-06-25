@@ -1,0 +1,13 @@
+From: Network Admin netadmin@company.com
+Subject: Scheduled Maintenance - System Update Required
+
+    Dear Employee,
+
+    We will perform scheduled maintenance on our systems this weekend.
+    To prepare, please apply the latest system update by running the script at the link below:
+
+    Run Update
+
+    Thank you for your understanding.
+
+    Network Admin
