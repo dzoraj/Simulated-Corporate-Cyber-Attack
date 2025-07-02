@@ -6,7 +6,7 @@ The goal was to replicate a real-world hacking scenario, where an attacker gains
 The focus of the project is on the forensic investigation process after the compromise, including memory analysis, disk inspection, log correlation, and identifying indicators of compromise (IoCs).
 Tools like Wireshark, Autopsy, and other forensic utilities were used to analyze the traces left behind by the attacker and reconstruct the timeline of the intrusion.
 
-================================================================================================
+==========================================================================================
 
 SRB
 Simulacija i dig. forenzička analiza hakerskog upada na Linux mašinu
